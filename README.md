@@ -49,7 +49,7 @@
 ### Sistemas de Alerta
 
 - [Sismos Chile](https://api.gael.cl/general/public/sismos): Últimos sismos en Chile.
-- [Chile Alerta - Api](https://api.gael.cl/general/public/sismos): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo.
+- [Chile Alerta - Api](https://github.com/TBMSP/ChileAlertaApi): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo.
 
 
 ### Mapas / Geocodificación
